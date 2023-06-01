@@ -33,10 +33,6 @@ TARGET_SCREEN_WIDTH := 1080
 PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
-PRODUCT_PACKAGES += \
-    android.hidl.base@1.0 \
-    android.hidl.manager@1.0
-
 # Overlays
 PRODUCT_PACKAGES += \
     SonyPDX206FrameworksRes \
