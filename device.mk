@@ -36,7 +36,6 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 # Overlays
 PRODUCT_PACKAGES += \
     SonyPDX206FrameworksRes \
-    SonyPDX206SettingsRes \
     SonyPDX206SystemUIRes
 
 # HDR
